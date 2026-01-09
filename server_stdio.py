@@ -39,15 +39,17 @@ HIGH_IMPACT_JOURNALS = [
     "Ann Neurol",
     "J Neurol Neurosurg Psychiatry",
     "Movement Disorders",
-    "Movement Disorders: Clinical Practice",
+    "Movement Disorders Clinical Practice",
+    "Mov Disord",
+    "Mov Disord Clin Pract",
     "Amyloid",
     "Parkinsonism & Related Disorders",
+    "Parkinsonism Relat Disord",
     "Stroke",
     "CNS & Neurological Disorders Drug Targets",
     "Clin Neurol Neurosurg",
     "Multiple Sclerosis Journal",
     "Epilepsia",
-    "Mov Disord",
     "Sleep"
 ]
 
