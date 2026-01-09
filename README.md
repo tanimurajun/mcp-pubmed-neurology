@@ -1,2 +1,23 @@
-# mcp-pubmed-neurology
-PubMed MCP Server specialized for Neurology - searches and retrieves medical literature from PubMed with focus on neurology journals. Based on m0370/mcp-pubmed-server.
+# PubMed MCP Server for Neurology
+
+PubMedから論文を検索・取得するためのツールを提供するMCP (Model Context Protocol) サーバーです。**Neurology（神経学）領域に特化**しています。
+
+Claude DesktopやAntigravityなどのAIエージェントが、医学文献データベースに直接アクセスすることを可能にし、神経学関連の研究論文を効率的に検索できます。
+
+## 由来（Origin）
+
+このプロジェクトは [m0370/mcp-pubmed-server](https://github.com/m0370/mcp-pubmed-server) をベースに、Neurology 領域に特化するようカスタマイズしたものです。
+
+元のプロジェクトの素晴らしい MCP Server 実装に感謝します。このプロジェクトはオリジナルに敬意を払いながら、神経学研究に最適化されたジャーナルリストを実装しています。
+
+## 特徴
+
+- **PubMed検索**: キーワードを使用して論文を検索できます。
+- - **高度な絞り込み検索**: 著者名、雑誌名、発行日などで絞り込んだ検索が可能です。
+  - - **関連論文の推薦**: 特定の論文から関連論文を自動的に見つけます。
+    - - **論文詳細の取得**: アブストラクト、著者、DOI、全文リンクなどを取得できます。
+      - - **Neurology最適化**: 神経学領域の高IF雑誌に対応しています。
+       
+        - ## ライセンス
+       
+        - MIT - 元のプロジェクト m0370/mcp-pubmed-server に敬意を払います。
