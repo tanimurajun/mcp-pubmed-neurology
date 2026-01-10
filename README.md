@@ -18,16 +18,16 @@ Claude Desktop、Cursor、Antigravity などのAIエージェントが、PubMed�
 - **Stdio通信**: 安全で高速なローカル実行
 - **Neurology最適化**: 神経学領域の高IF雑誌に対応
            
-- ## セットアップと使い方
-           
+## セットアップと使い方
+
 - 詳しい設定方法、セットアップ手順、使用例については、[元のプロジェクト](https://github.com/m0370/mcp-pubmed-server) をご覧ください。
 - このプロジェクトは元のコードをベースにしているため、基本的な使い方は同じです。主な違いは、ジャーナルリストが神経学分野向けにカスタマイズされている点です。
 
-- ## 主な変更点
+## 主な変更点
            
 - 高 IF ジャーナルリストを神経学・神経科学分野に変更
 - 元のプロジェクトの基本機能はそのまま継承
                
-- ## ライセンス
+## ライセンス
                
-- MIT - 元のプロジェクト [m0370/mcp-pubmed-server](https://github.com/m0370/mcp-pubmed-server) に敬意を払います。
+- MIT - 元のプロジェクト [m0370/mcp-pubmed-server](https://github.com/m0370/mcp-pubmed-server) に敬意を敬意を表します。
