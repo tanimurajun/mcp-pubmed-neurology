@@ -4,7 +4,7 @@ PubMedから論文を検索・取得するための **Neurology（神経学）�
 
 ## 由来
 
-このプロジェクトは [m0370/mcp-pubmed-server](https://github.com/m0370/mcp-pubmed-server) をベースに、Neurology 領域に特化するようカスタマイズしたものです。元のプロジェクトの実装に感謝します。
+このプロジェクトは [m0370/mcp-pubmed-server](https://github.com/m0370/mcp-pubmed-server) をベースに、高 IF ジャーナルリストを Neurology 領域に変更したものです。元プロジェクトの実装に感謝します。
 
 ## 特徴
 
