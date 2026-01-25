@@ -70,15 +70,17 @@ PMID 31216379の類似論文を高IF雑誌で検索
 → PubMed類似度アルゴリズムと雑誌フィルターを使用
 ```
 
-## 高インパクト神経学雑誌
+## "高インパクト"神経学雑誌
 
 `high_impact_only`フィルター使用時：
 
-**総合誌**: NEJM, Lancet, JAMA, BMJ, Nature Medicine
-**臨床神経**: Lancet Neurology, JAMA Neurology, Neurology, Brain, Annals of Neurology, J Neurol Neurosurg Psychiatry  
-**神経科学**: Nature, Science, Cell, Neuron, Nature Reviews Neurology  
-**運動異常症**: Movement Disorders, Movement Disorders Clinical Practice, Parkinsonism & Related Disorders, Journal of Parkinson's Disease, npj Parkinson's Disease
-**専門誌**: Stroke, Multiple Sclerosis Journal, Epilepsia, Sleep, Amyloid
+- **総合誌**: NEJM, Lancet, JAMA, BMJ, Nature Medicine
+- **臨床神経**: Lancet Neurology, JAMA Neurology, Neurology, Brain, Annals of Neurology, J Neurol Neurosurg Psychiatry
+- **神経科学**: Nature, Science, Cell, Neuron, Nature Reviews Neurology
+- **運動異常症**: Movement Disorders, Movement Disorders Clinical Practice, Parkinsonism & Related Disorders, Journal of Parkinson's Disease, npj Parkinson's Disease
+- **専門誌**: Stroke, Multiple Sclerosis Journal, Epilepsia, Sleep, Amyloid
+
+個人の嗜好も入っております。
 
 ## 変更点
 
