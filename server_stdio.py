@@ -41,8 +41,8 @@ HIGH_IMPACT_JOURNALS = [
     "Mov Disord Clin Pract",
     "Amyloid",
     "Parkinsons Relat Disord",
-    "J Parkinsons Dis"
-    "NPJ Parkinsons Dis"
+    "J Parkinsons Dis",
+    "NPJ Parkinsons Dis",
     "Stroke",
     "CNS Neurol Disord Drug Targets",
     "Clin Neurol Neurosurg",
